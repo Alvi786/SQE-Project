@@ -1,0 +1,12 @@
+<!doctype HTML>
+<html>
+<head>
+<title>
+Basic Info
+</title>
+</head>
+<body>
+Enter Number here:
+<input type="number" placeholder="Mobile no.">
+</body>
+</html>
